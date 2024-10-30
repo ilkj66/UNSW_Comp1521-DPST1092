@@ -1,0 +1,14 @@
+bitwise.c
+print_bits.h
+print_bits.c
+shift_as_multiply.c
+set_low_bits.c
+set_bit_range.c
+extract_bit_range.c
+print_int_in_hex.c
+int_to_hex_string.c
+hex_string_to_int.c
+shift_bug.c
+xor.c
+pokemon.c
+bitset.c
